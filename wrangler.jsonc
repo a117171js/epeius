@@ -1,0 +1,13 @@
+{  
+  "compatibility_date": "2025-06-01",
+  "kv_namespaces": [
+    {
+      "binding": "KV",
+      "id": "49a644f44ee24b4cba75ce88fb5b1afa"
+    }
+  ],
+  "vars": {
+    "PASSWORD": "v2raytrojan",
+    "PROXYIP": "us.cfpyip.dpdns.org:443"
+  }
+}
