@@ -10,5 +10,5 @@
   "vars": {
     "PASSWORD": "v2raytrojan",
     "PROXYIP": "us.cfpyip.dpdns.org:443"
-  }
+  },"name": "cgsh"
 }
