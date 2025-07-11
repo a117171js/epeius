@@ -12,5 +12,5 @@
     "PROXYIP": "us.cfpyip.dpdns.org:443",
     "NAT64": "2a01:4f9:c010:3f02:64::/96",
     "URL": "https://example.com"
-  }
+  },"name": "cgsh"
 }
